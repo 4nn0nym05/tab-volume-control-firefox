@@ -3,7 +3,7 @@
   "name": "Tab Volume Control",
   "version": "1.0",
   "description": "Control audio volume for individual browser tabs",
-  "author": "Your Name",
+  "author": "Joker",
   "homepage_url": "https://github.com/yourusername/tab-volume-control",
 
   "permissions": [
