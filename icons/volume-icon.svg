@@ -1,0 +1,14 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <!-- Speaker body -->
+  <rect x="8" y="18" width="8" height="12" fill="#4a90e2" rx="1"/>
+  
+  <!-- Speaker cone -->
+  <polygon points="16,18 16,30 28,36 28,12" fill="#4a90e2"/>
+  
+  <!-- Sound waves -->
+  <path d="M32 16 Q36 20 36 24 Q36 28 32 32" stroke="#4a90e2" stroke-width="2" fill="none"/>
+  <path d="M35 12 Q42 18 42 24 Q42 30 35 36" stroke="#4a90e2" stroke-width="2" fill="none"/>
+  
+  <!-- Volume control indicator -->
+  <circle cx="24" cy="40" r="3" fill="#ff6b6b"/>
+</svg>
